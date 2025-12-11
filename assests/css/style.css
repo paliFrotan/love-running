@@ -39,7 +39,7 @@ h1 {
     letter-spacing: 4px;
     list-style-type: none;
 }
-#menu li {
+#menu > li {
     margin-bottom: 1em;
 }
 .active {
