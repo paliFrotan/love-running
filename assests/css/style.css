@@ -34,6 +34,12 @@ h1 {
     letter-spacing: 2px;
     color: #252525;
 }
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
 main {
     background-color: lightblue;
     /* Make main element take up remaining space */
