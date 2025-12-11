@@ -13,7 +13,7 @@ body {
     flex-direction: column;
     /*generic project styles*/
     color: #3a3a3a;
-    font-family: "lato", sans-serif;
+    font-family: "Lato", sans-serif;
 }
 
 header {
@@ -95,5 +95,14 @@ footer {
     }
     .nav-toggle-label {
         display: none;
+    }
+    #logo {
+        font-size: 200%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
+    /* Push main content down to accomodate larger header */
+    main {
+        margin-top: 79px;
     }
 }
